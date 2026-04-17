@@ -1,11 +1,11 @@
-# 🌐 Day 4 – Networking Fundamentals
+#  Day 4 – Networking Fundamentals
 
-### 👨‍💻 Prepared by: Abdu  
-### 📅 Training Program: INSA Weekend Cybersecurity Training  
+###  Prepared by: Abdu  
+###  Training Program: INSA Weekend Cybersecurity Training  
 
 ---
 
-# 🌐 Introduction
+#  Introduction
 
 Day 4 focused on networking fundamentals, including types of networks, IP addressing, OSI model, ports, and communication protocols. These concepts are essential for understanding how devices communicate and how attacks occur in networks.
 
@@ -17,7 +17,7 @@ A network is a group of connected computers and devices that communicate and sha
 
 ---
 
-# 🎯 Purpose of Networking
+#  Purpose of Networking
 
 - File sharing 📂  
 - Resource sharing (printers, internet)  
@@ -26,7 +26,7 @@ A network is a group of connected computers and devices that communicate and sha
 
 ---
 
-# 🌍 Types of Network (Geographical)
+#  Types of Network (Geographical)
 
 | Type | Meaning | Example |
 |------|--------|--------|
@@ -37,7 +37,7 @@ A network is a group of connected computers and devices that communicate and sha
 
 ---
 
-# 🧠 IP Address Classes
+#  IP Address Classes
 
 IP addresses are divided into classes based on the first octet.
 
@@ -55,7 +55,7 @@ IP addresses are divided into classes based on the first octet.
 
 ---
 
-# 🖥 Server vs Client
+#  Server vs Client
 
 ## Server:
 - Provides services/resources  
@@ -67,7 +67,7 @@ IP addresses are divided into classes based on the first octet.
 
 ---
 
-# 🌍 Public vs Private IP Address
+#  Public vs Private IP Address
 
 ## Public IP:
 - Used on the internet  
@@ -84,7 +84,7 @@ IP addresses are divided into classes based on the first octet.
 
 ---
 
-# 🔄 DHCP (Dynamic Host Configuration Protocol)
+#  DHCP (Dynamic Host Configuration Protocol)
 
 DHCP automatically assigns IP addresses to devices in a network.
 
@@ -95,7 +95,7 @@ DHCP automatically assigns IP addresses to devices in a network.
 
 ---
 
-# 🧱 OSI Model (Overview)
+#  OSI Model (Overview)
 
 | Layer | Name |
 |------|------|
@@ -109,7 +109,7 @@ DHCP automatically assigns IP addresses to devices in a network.
 
 ---
 
-# 🚪 What is a Port?
+#  What is a Port?
 
 A port is a communication endpoint used by applications.
 
@@ -148,7 +148,7 @@ A port is a communication endpoint used by applications.
 
 ---
 
-## 🔥 Simple Comparison
+##  Simple Comparison
 
 | Feature | TCP | UDP |
 |--------|-----|-----|
@@ -159,7 +159,7 @@ A port is a communication endpoint used by applications.
 
 ---
 
-# 🧬 MAC Address vs IP Address
+#  MAC Address vs IP Address
 
 ## MAC Address:
 - Physical address  
@@ -173,7 +173,7 @@ A port is a communication endpoint used by applications.
 
 ---
 
-# 🧠 Understanding IP Structure
+#  Understanding IP Structure
 
 Example IP:
 192.168.1.10
@@ -185,7 +185,7 @@ Example IP:
 
 ---
 
-# 💡 Key Takeaways
+#  Key Takeaways
 
 - Networks allow communication between devices  
 - IP addresses identify devices  
@@ -195,6 +195,6 @@ Example IP:
 
 ---
 
-# 🚀 Conclusion
+#  Conclusion
 
 Day 4 provided essential knowledge about networking, which is the backbone of cybersecurity. Understanding how networks work helps in both attacking and defending systems.
