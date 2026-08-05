@@ -6,7 +6,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/DevAbdu-code/Cyber_Security-Learning-Journal)
 [![Last Updated](https://img.shields.io/github/last-commit/DevAbdu-code/Cyber_Security-Learning-Journal?style=flat-square)](https://github.com/DevAbdu-code/Cyber_Security-Learning-Journal)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-CC_BY--ND_4.0-lightgrey.svg)](LICENSE)
 
 > *"Hack the system, but first understand it."*
 
@@ -198,7 +198,7 @@ Welcome to my **Cyber Security Learning Journal** – a comprehensive documentat
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC BY-ND License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
