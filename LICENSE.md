@@ -14,7 +14,7 @@
 
 ###  You Can:
 - **Share** — Copy and redistribute this work
-- **Use** — For any purpose (personal, academic, or commercial)
+- **Use** — For any purpose (personal, academic, etc)
 
 ###  You Cannot:
 - **Modify** — Remix, transform, or build upon this work
